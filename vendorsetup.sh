@@ -1,1 +1,4 @@
+add_lunch_combo carbon_odin-userdebug
+add_lunch_combo carbon_pollux-userdebug
+add_lunch_combo carbon_pollux_windy-userdebug
 add_lunch_combo carbon_yuga-userdebug
