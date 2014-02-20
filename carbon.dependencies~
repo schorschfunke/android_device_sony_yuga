@@ -1,24 +1,24 @@
 [
   {
-    "remote"   : "cm"
+    "remote":   : "cm"
     "repository": "android_device_sony_common",
     "target_path": "device/sony/common"
     "revision" : "cm-11.0"
   },
   {
-    "remote"   : "cm"
+    "remote":   : "cm"
     "repository": "android_device_sony_qcom-common",
     "target_path": "device/sony/qcom-common"
     "revision" : "cm-11.0"
   },
   {
-    "remote"   : "cm"
+    "remote":   : "cm"
     "repository": "android_device_sony_fusion3-common",
     "target_path": "device/sony/fusion3-common"
     "revision" : "cm-11.0"
   },
   {
-    "remote"   : "sf"
+    "remote":   : "sf"
     "repository": "android_kernel_sony_apq8064",
     "target_path": "kernel/sony/apq8064"
     "revision" : "exp2"
