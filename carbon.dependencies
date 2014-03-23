@@ -1,24 +1,24 @@
 [
   {
-    "remote"   : "github",
-    "repository": "SlimRoms/android_device_sony_common",
+    "remote"   : "gh",
+    "repository": "SlimRoms/device_sony_common",
     "target_path": "device/sony/common",
     "revision" : "kk4.4"
   },
   {
-    "remote"   : "github",
-    "repository": "SlimRoms/android_device_sony_qcom-common",
+    "remote"   : "gh",
+    "repository": "SlimRoms/device_sony_qcom-common",
     "target_path": "device/sony/qcom-common",
     "revision" : "kk4.4"
   },
   {
-    "remote"   : "github",
-    "repository": "SlimRoms/android_device_sony_fusion3-common",
+    "remote"   : "gh",
+    "repository": "SlimRoms/device_sony_fusion3-common",
     "target_path": "device/sony/fusion3-common",
     "revision" : "kk4.4"
   },
   {
-    "remote"   : "github",
+    "remote"   : "gh",
     "repository": "schorschfunke/android_kernel_sony_apq8064",
     "target_path": "kernel/sony/apq8064",
     "revision" : "exp2"
@@ -30,8 +30,8 @@
     "revision" : "cm-11.0"
   },
   {
-    "remote" : "github",
-    "repository" : "schorschfunke/proprietary_vendor_sony-1",
+    "remote" : "gh",
+    "repository" : "SlimRoms/proprietary_vendor_sony",
     "target_path" : "vendor/sony",
     "branch" : "kk4.4"
   }
