@@ -21,7 +21,7 @@
     "remote"   : "sf",
     "repository": "android_kernel_sony_apq8064",
     "target_path": "kernel/sony/apq8064",
-    "revision" : "exp2"
+    "revision" : "sf4.4"
   },
   {
     "remote"   : "cm",
@@ -30,8 +30,8 @@
     "revision" : "cm-11.0"
   },
   {
-    "remote"   : "sf",
-    "repository": "proprietary_vendor_sony-1",
+    "remote"   : "gh",
+    "repository": "SlimRoms/proprietary_vendor_sony",
     "target_path": "vendor/sony",
     "revision" : "kk4.4"
   }
