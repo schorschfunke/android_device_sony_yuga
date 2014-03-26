@@ -18,7 +18,7 @@
     "revision" : "cm-11.0"
   },
   {
-    "remote"   : "sf",
+    "remote"   : "gf",
     "repository": "android_kernel_sony_apq8064",
     "target_path": "kernel/sony/apq8064",
     "revision" : "sf4.4"
