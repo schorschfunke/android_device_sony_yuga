@@ -30,9 +30,9 @@
     "revision" : "cm-11.0"
   },
   {
-    "remote"   : "gh",
-    "repository": "SlimRoms/proprietary_vendor_sony",
+    "remote"   : "tm",
+    "repository": "TheMuppets/proprietary_vendor_sony",
     "target_path": "vendor/sony",
-    "revision" : "kk4.4"
+    "revision" : "cm-11.0"
   }
 ]
