@@ -31,7 +31,7 @@
   },
   {
     "remote"   : "tm",
-    "repository": "TheMuppets/proprietary_vendor_sony",
+    "repository": "proprietary_vendor_sony",
     "target_path": "vendor/sony",
     "revision" : "cm-11.0"
   }
