@@ -36,15 +36,15 @@
     "revision" : "cm-11.0"
   },
   {
-    "remote": "sf",
-    "repository": "smtoolchainsarmandroideabi48/code",
+    "remote": "aosp",
+    "repository": "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8",
     "target_path": "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8",
-    "revision": "sm-kk-mr1"
+    "revision": "master"
   },
   {
-    "remote": "sf",
-    "repository": "sabermodsmtoolchainsarmeabi47/code",
+    "remote": "aosp",
+    "repository": "platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8",
     "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-4.8",
-    "revision": "sm-kk-mr1"
+    "revision": "master"
   }
 ]
