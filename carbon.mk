@@ -24,9 +24,6 @@ OVERLAY_TARGET := pa_xxhdpi
 # device
 $(call inherit-product, device/sony/yuga/full_yuga.mk)
 
-# gsm
-$(call inherit-product, vendor/carbon/config/common_gsm.mk)
-
 # phone
 $(call inherit-product, vendor/carbon/config/common_phone.mk)
 
