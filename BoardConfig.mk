@@ -37,5 +37,8 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 2147483648
 
 BOARD_HARDWARE_CLASS += device/sony/yuga/cmhw
 
-# Rom/Kernel Toolchain Sabbermod 4.8/4.7
+# Rom/Kernel Toolchain Google 4.8
 TARGET_GCC_VERSION_EXP := 4.8
+
+# External apps on SD
+TARGET_EXTERNAL_APPS = sdcard1
