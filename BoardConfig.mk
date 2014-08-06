@@ -42,3 +42,6 @@ TARGET_GCC_VERSION_EXP := 4.8
 
 # External apps on SD
 TARGET_EXTERNAL_APPS = sdcard1
+
+# Qcom Hardware
+BOARD_USES_QCOM_MUSICFX := true
